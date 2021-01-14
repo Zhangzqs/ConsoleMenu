@@ -1,1 +1,4 @@
 # ConsoleMenu
+
+一个简单的控制台界面的菜单库，调用者只需将Menu.hpp和Scanner.hpp添加到自己的项目中，然后 
+在项目中include一个Menu.hpp头文件即可实现对菜单库的调用，注意所有的命名空间均为zzq
